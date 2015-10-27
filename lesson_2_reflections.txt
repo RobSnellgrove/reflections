@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+- creates a .git file
+- add the files you want tracking
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- the working directory is a normal folder
+- the staging area is a git concept that stores things you are choosing to add to your respository
+- the respository is files that are being tracked by git
