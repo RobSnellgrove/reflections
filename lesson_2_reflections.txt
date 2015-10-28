@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 - the working directory is a normal folder
 - the staging area is a git concept that stores things you are choosing to add to your respository
 - the respository is files that are being tracked by git
+
+How can you use the staging area to make sure you have one commit per logical change?
+- add the file to the staging area after the change has been made
